@@ -14,15 +14,15 @@
 
     & h2 {
       font-size: var(--font-h1);
-      color: var(--text-orange-2);
+      color: var(--text-orange);
       text-transform: uppercase;
       font-weight: 800;
     }
 
     & p {
       font-size: var(--font-xl);
-      color: var(--text-green);
-      font-weight: 800;
+      color: var(--text-black);
+      font-weight: 700;
     }
 
     & .buttons {
